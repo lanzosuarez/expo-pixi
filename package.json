@@ -51,7 +51,7 @@
     "lint:fix": "eslint lib/ --fix"
   },
   "dependencies": {
-    "@expo/browser-polyfill": "^0.0.0-alpha.8",
+    "@expo/browser-polyfill": "0.0.1-alpha.0",
     "expo-asset-utils": "^0.0.4-alpha.0",
     "fbemitter": "2.1.1",
     "gl-matrix": "2.6.1",
